@@ -1,0 +1,3 @@
+setup virtual environment before running and install necessary dependencies in the virtual environment after that in terminal - streamlit run app..py  
+
+it will automaticlally opens your default brwoser and you can start  using
